@@ -1,5 +1,5 @@
 
-<h2> Hello,  I'm Gabriela!👋 <h2/>
+<h4> Hello,  I'm Gabriela!👋 <h4/>
 I'm student of Systems Analysis and Development in Brazil. Currently, pursuing my degree at Senac College, I'm eager to delve deeper into the world of technology and contribute to innovative projects. 🌍💻
   
 <h4>You can find me on social media or send me an email: <h4/>
